@@ -1,7 +1,10 @@
 # CS3560 - Example Project
 
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
+
 These examples are also to help students understand and use pull requests
+(edited by Hunter Hutchison, hh586015)
+
 This is a simple project that contain some of the tools used in the class. For example,
 
 - .gitignore
